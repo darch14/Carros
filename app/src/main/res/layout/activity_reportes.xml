@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.david.carros.Principal">
+    tools:context="com.example.david.carros.Reportes">
 
     <ListView
-        android:id="@+id/lbOpciones"
+        android:id="@+id/lvReportes"
         android:layout_width="368dp"
         android:layout_height="495dp"
         tools:layout_editor_absoluteX="8dp"

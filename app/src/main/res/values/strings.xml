@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Carros</string>
+    <string name="registro_carros">REGISTRO DE CARROS</string>
+    <string name="placa">PLACA</string>
+    <string name="marca">MARCA</string>
+    <string name="modelo">MODELO</string>
+    <string name="color">COLOR</string>
+    <string name="precio">PRECIO</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="borrar">BORRAR</string>
+    <string name="registrar_carros">REGISTRAR CARROS</string>
+    <string name="listar_carros">LISTAR CARROS</string>
+    <string name="reportes">REPORTES</string>
+    <string-array name="opciones_principal">
+        <item>@string/registrar_carros</item>
+        <item>@string/listar_carros</item>
+        <item>@string/reportes</item>
+    </string-array>
 </resources>
