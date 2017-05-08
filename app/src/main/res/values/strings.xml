@@ -58,6 +58,20 @@
         <item>@string/color_tres</item>
         <item>@string/color_cuatro</item>
     </string-array>
+    <string name="no_carros_registrados">No. de Carros registredos</string>
+    <string name="no_carros_registrados_marca">No. de Carros por marca registrada</string>
+    <string name="no_carros_registrados_color">No. de Carros por color registrados</string>
+    <string name="listado_carros_modelo">Listado de Carros cuyo modelo este entre 2010 y 2015</string>
+    <string name="datos_carro_mas_caro">Datos del carro mas caro registrado</string>
+    <string name="datos_carro_mas_economico">Datos del carro mas economico registrado</string>
+    <string-array name="listado_reportes">
+        <item>@string/no_carros_registrados</item>
+        <item>@string/no_carros_registrados_marca</item>
+        <item>@string/no_carros_registrados_color</item>
+        <item>@string/listado_carros_modelo</item>
+        <item>@string/datos_carro_mas_caro</item>
+        <item>@string/datos_carro_mas_economico</item>
+    </string-array>
     <string name="error_placa">Por favor digite la placa</string>
     <string name="error_precio">Por favor digite el precio</string>
     <string name="registro_exito">REGISTRO EXITOSO</string>
