@@ -65,10 +65,12 @@ public class Registrar extends AppCompatActivity {
 
     public boolean validar(){
         if (cajaplaca.getText().toString().isEmpty()){
+            cajaplaca.requestFocus();
             cajaplaca.setError(res.getString(R.string.error_placa));
             return false;
         }
         if (cajaprecio.getText().toString().isEmpty()){
+            cajaprecio.requestFocus();
             cajaprecio.setError(res.getString(R.string.error_precio));
             return false;
         }

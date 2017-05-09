@@ -74,5 +74,10 @@
     </string-array>
     <string name="error_placa">Por favor digite la placa</string>
     <string name="error_precio">Por favor digite el precio</string>
+    <string name="error_precio_demaciado">Por favor digite un precio mas bajo para este mercado</string>
     <string name="registro_exito">REGISTRO EXITOSO</string>
+    <string name="numero">No.</string>
+    <string name="carro_caro">CARRO MAS CARO</string>
+    <string name="no_hay_registro">No hay carros registrados</string>
+    <string name="carro_mas_economico">CARRO MAS ECONOMICO</string>
 </resources>
