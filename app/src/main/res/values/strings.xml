@@ -17,7 +17,7 @@
         <item>@string/reportes</item>
     </string-array>
     <string name="marca_uno">KIA</string>
-    <string name="marca_dos">MASDA</string>
+    <string name="marca_dos">MAZDA</string>
     <string name="marca_tres">BMW</string>
     <string name="marca_cuatro">FORD</string>
     <string-array name="opciones_marca">
@@ -58,9 +58,9 @@
         <item>@string/color_tres</item>
         <item>@string/color_cuatro</item>
     </string-array>
-    <string name="no_carros_registrados">No. de Carros registredos</string>
-    <string name="no_carros_registrados_marca">No. de Carros por marca registrada</string>
-    <string name="no_carros_registrados_color">No. de Carros por color registrados</string>
+    <string name="no_carros_registrados">N° de Carros registredos</string>
+    <string name="no_carros_registrados_marca">N° de Carros por marca registrada</string>
+    <string name="no_carros_registrados_color">N° de Carros por color registrados</string>
     <string name="listado_carros_modelo">Listado de Carros cuyo modelo este entre 2010 y 2015</string>
     <string name="datos_carro_mas_caro">Datos del carro mas caro registrado</string>
     <string name="datos_carro_mas_economico">Datos del carro mas economico registrado</string>
@@ -76,7 +76,7 @@
     <string name="error_precio">Por favor digite el precio</string>
     <string name="error_precio_demaciado">Por favor digite un precio mas bajo para este mercado</string>
     <string name="registro_exito">REGISTRO EXITOSO</string>
-    <string name="numero">No.</string>
+    <string name="numero">N°</string>
     <string name="carro_caro">CARRO MAS CARO</string>
     <string name="no_hay_registro">No hay carros registrados</string>
     <string name="carro_mas_economico">CARRO MAS ECONOMICO</string>

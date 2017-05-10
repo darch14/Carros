@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carros</string>
+    <string name="borrar">DELETE</string>
+    <string name="carro_caro">MORE EXPENSIVE CAR</string>
+    <string name="carro_mas_economico">MORE ECONOMIC CAR</string>
+    <string name="color">COLOR</string>
+    <string name="color_cuatro">Blue</string>
+    <string name="color_dos">Black</string>
+    <string name="color_tres">Red</string>
+    <string name="color_uno">White</string>
+    <string name="datos_carro_mas_caro">Data of the most expensive car registered</string>
+    <string name="datos_carro_mas_economico">Data of the most economical car registered</string>
+    <string name="error_placa">Please enter the plaque</string>
+    <string name="error_precio">Please enter price</string>
+    <string name="error_precio_demaciado">Please enter a lower price for this market</string>
+    <string name="guardar">SAVE</string>
+    <string name="listado_carros_modelo">List of cars whose model is between 2010 and 2015</string>
+    <string name="listar_carros">LIST CARS</string>
+    <string name="marca">BRAND</string>
+    <string name="marca_cuatro">FORD</string>
+    <string name="marca_dos">MAZDA</string>
+    <string name="marca_tres">BMW</string>
+    <string name="marca_uno">KIA</string>
+    <string name="modelo">MODEL</string>
+    <string name="modelo_cinco">2012</string>
+    <string name="modelo_cuatro">2011</string>
+    <string name="modelo_diez">2017</string>
+    <string name="modelo_dos">2009</string>
+    <string name="modelo_nueve">2016</string>
+    <string name="modelo_ocho">2015</string>
+    <string name="modelo_seis">2013</string>
+    <string name="modelo_siete">2014</string>
+    <string name="modelo_tres">2010</string>
+    <string name="modelo_uno">2008</string>
+    <string name="no_carros_registrados">No. of registered Cars</string>
+    <string name="no_carros_registrados_color">No. of registered cars per color</string>
+    <string name="no_carros_registrados_marca">No. of Cars by Registered Trademark</string>
+    <string name="no_hay_registro">No cars registered</string>
+    <string name="numero">No.</string>
+    <string name="placa">LICENSE PLATE</string>
+    <string name="precio">PRICE</string>
+    <string name="registrar_carros">REGISTER CARS</string>
+    <string name="registro_carros">CARS REGISTRATION</string>
+    <string name="registro_exito">SUCCESSFUL REGISTRATION</string>
+    <string name="reportes">REPORTS</string>
+</resources>

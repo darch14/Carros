@@ -36,7 +36,8 @@ public class Reportes extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
                 switch (position){
                     case 0:
-                        new AlertDialog.Builder(Reportes.this).setMessage(String.valueOf(carros.size())).show();
+                        new AlertDialog.Builder(Reportes.this).setMessage(res.getString(R.string.app_name)+
+                                "= "+String.valueOf(carros.size())).show();
                         break;
                     case 1:
                         new AlertDialog.Builder(Reportes.this).setMessage(marcasContador()).show();
